@@ -2,28 +2,16 @@
 /home         /testi1                            301
 
 # Real redirects 
-/Aurora-Karamzin-ja-Traskandan-kartano-Osa-1.html https://sahkonkilpailuttaja.fi/kilpailuta-sahko/ 301
-
-/Sinebrychoffien-Hagalund.html https://sahkonkilpailuttaja.fi/vertaa-sahko/ 301
-
-/Koyhainhoidosta-hyvinvointiyhteiskuntaan.html https://sahkonkilpailuttaja.fi/sahkon-hintavertailu-puolueeton/ 301
-
-/Soukanniemen-karki-ja-Suvisaaristo.html https://sahkonkilpailuttaja.fi/vertaa-sahko/ 301
-
-/Kenraali-Carl-Nathanael-af-Klercker-Hameenlinnassa-ja-J.-L.-Runebergin-tuotannossa.html https://sahkonkilpailuttaja.fi/sahkon-hintavertailu-puolueeton/ 301
-
-/Veistoksia-ja-muistomerkkeja-Espoossa.html https://sahkonkilpailuttaja.fi/kilpailuta-sahko/ 301
-
-/Traskandan-kartano-Aurorakotina.html https://sahkonkilpailuttaja.fi/vertaa-sahko/ 301
-
-/Espoon-kulttuuriymparistot.html https://sahkonkilpailuttaja.fi/sahkon-hintavertailu-puolueeton/ 301
-
-/Traskanda-folkskola-autonomian-aikana.html https://sahkonkilpailuttaja.fi/vertaa-sahko/ 301
-
-/Uno-Cygnaeuksen-elamasta.html https://sahkonkilpailuttaja.fi/kilpailuta-sahko/ 301
-
-/Espoon-kirkonmaki.html https://sahkonkilpailuttaja.fi/sahkon-hintavertailu-puolueeton/ 301
-
-/Koulumuistojen-keruulomake.html https://sahkonkilpailuttaja.fi/kilpailuta-sahko/ 301
-
-/Koulutus-ja-sivistys.html https://sahkonkilpailuttaja.fi/vertaa-sahko/ 301
+https://espoonaurora.net/Aurora-Karamzin-ja-Traskandan-kartano-Osa-1.html	https://sahkonkilpailuttaja.fi/kilpailuta-sahko/	301
+https://espoonaurora.net/Sinebrychoffien-Hagalund.html	https://sahkonkilpailuttaja.fi/vertaa-sahko/	301
+https://espoonaurora.net/Koyhainhoidosta-hyvinvointiyhteiskuntaan.html	https://sahkonkilpailuttaja.fi/sahkon-hintavertailu-puolueeton/	301
+https://espoonaurora.net/Soukanniemen-karki-ja-Suvisaaristo.html	https://sahkonkilpailuttaja.fi/vertaa-sahko/	301
+https://espoonaurora.net/Kenraali-Carl-Nathanael-af-Klercker-Hameenlinnassa-ja-J.-L.-Runebergin-tuotannossa.html	https://sahkonkilpailuttaja.fi/sahkon-hintavertailu-puolueeton/	301
+https://espoonaurora.net/Veistoksia-ja-muistomerkkeja-Espoossa.html	https://sahkonkilpailuttaja.fi/kilpailuta-sahko/	301
+https://espoonaurora.net/Traskandan-kartano-Aurorakotina.html	https://sahkonkilpailuttaja.fi/vertaa-sahko/	301
+https://espoonaurora.net/Espoon-kulttuuriymparistot.html	https://sahkonkilpailuttaja.fi/sahkon-hintavertailu-puolueeton/	301
+https://espoonaurora.net/Traskanda-folkskola-autonomian-aikana.html	https://sahkonkilpailuttaja.fi/vertaa-sahko/	301
+https://espoonaurora.net/Uno-Cygnaeuksen-elamasta.html	https://sahkonkilpailuttaja.fi/kilpailuta-sahko/	301
+https://espoonaurora.net/Espoon-kirkonmaki.html	https://sahkonkilpailuttaja.fi/sahkon-hintavertailu-puolueeton/	301
+https://espoonaurora.net/Koulumuistojen-keruulomake.html	https://sahkonkilpailuttaja.fi/kilpailuta-sahko/	301
+https://espoonaurora.net/Koulutus-ja-sivistys.html	https://sahkonkilpailuttaja.fi/vertaa-sahko/	301
